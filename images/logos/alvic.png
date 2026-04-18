@@ -1,0 +1,957 @@
+<!DOCTYPE html>
+<html class="isScrolledToTop dark-menu" lang="es-ES" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://alvic.com/wp-content/themes/alvic/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://alvic.com/wp-content/themes/alvic/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://alvic.com/wp-content/themes/alvic/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://alvic.com/wp-content/themes/alvic/assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://alvic.com/wp-content/themes/alvic/assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="https://alvic.com/wp-content/themes/alvic/assets/favicon/favicon.ico">
+    <meta name="msapplication-config" content="https://alvic.com/wp-content/themes/alvic/assets/favicon/browserconfig.xml">
+    <link href="https://unpkg.com/swiper/swiper-bundle.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+    <link rel="stylesheet" href="https://alvic.com/wp-content/themes/alvic/assets/style/css/vendors/fullpage.min-min.css">
+    <link href="https://alvic.com/wp-content/themes/alvic/assets/style/css/site.css?_=" rel="stylesheet">
+    	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- Optimización para motores de búsqueda de Rank Math -  https://rankmath.com/ -->
+<title>Page Not Found | Alvic Spain</title>
+<meta name="robots" content="follow, noindex"/>
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Page Not Found | Alvic Spain" />
+<meta property="og:site_name" content="Alvic Spain" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page Not Found | Alvic Spain" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://alvic.com/es/#organization/","name":"Alvic","url":"https://alvic.com/es/"},{"@type":"WebSite","@id":"https://alvic.com/es/#website/","url":"https://alvic.com/es/","name":"Alvic","publisher":{"@id":"https://alvic.com/es/#organization/"},"inLanguage":"es"},{"@type":"WebPage","@id":"#webpage","url":"","name":"Page Not Found | Alvic Spain","isPartOf":{"@id":"https://alvic.com/es/#website/"},"inLanguage":"es"}]}</script>
+<!-- /Plugin Rank Math WordPress SEO -->
+
+<link rel='stylesheet' id='moove_gdpr_frontend-css' href='https://alvic.com/wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main-nf.css?ver=5.0.11' type='text/css' media='all' />
+<style id='moove_gdpr_frontend-inline-css' type='text/css'>
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main h3.tab-title, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main span.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content .moove-gdpr-branding-cnt a,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,
+				#moove_gdpr_cookie_modal .cookie-switch .cookie-slider:after, 
+				#moove_gdpr_cookie_modal .cookie-switch .slider:after, 
+				#moove_gdpr_cookie_modal .switch .cookie-slider:after, 
+				#moove_gdpr_cookie_modal .switch .slider:after,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content p, 
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content p a,
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton, 
+				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h1, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h2, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h3, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h4, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h5, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h6,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-modal-title .tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main h3.tab-title, 
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main span.tab-title,
+				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-branding-cnt a {
+					font-weight: inherit				}
+			#moove_gdpr_cookie_modal,#moove_gdpr_cookie_info_bar,.gdpr_cookie_settings_shortcode_content{font-family:&#039;Euclid Circular A&#039;,sans-serif}#moove_gdpr_save_popup_settings_button{background-color:#373737;color:#fff}#moove_gdpr_save_popup_settings_button:hover{background-color:#000}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton{background-color:#0a0a0a}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green{background-color:#0a0a0a;border-color:#0a0a0a}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton:hover,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green:hover{background-color:#fff;color:#0a0a0a}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon{background-color:#0a0a0a;border:1px solid #0a0a0a}#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-allow-all.focus-g,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-allow-all:focus,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-allow-all.focus-g,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-allow-all:focus,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-reject-btn.focus-g,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-reject-btn:focus,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-reject-btn.focus-g,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-reject-btn:focus,#moove_gdpr_cookie_info_bar span.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar span.change-settings-button:focus,#moove_gdpr_cookie_info_bar button.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar button.change-settings-button:focus{-webkit-box-shadow:0 0 1px 3px #0a0a0a;-moz-box-shadow:0 0 1px 3px #0a0a0a;box-shadow:0 0 1px 3px #0a0a0a}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button{color:#0a0a0a}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .gdpr-acc-link{line-height:0;font-size:0;color:transparent;position:absolute}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close:hover i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button.focus-g,span.change-settings-button:focus,button.change-settings-button.focus-g,button.change-settings-button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:focus{color:#0a0a0a}#moove_gdpr_cookie_modal .moove-gdpr-branding.focus-g span,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main a.focus-g,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .gdpr-cd-details-toggle.focus-g{color:#0a0a0a}#moove_gdpr_cookie_modal.gdpr_lightbox-hide{display:none}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,.gdpr-shr-button,#moove_gdpr_cookie_info_bar .moove-gdpr-infobar-close-btn{border-radius:0}
+</style>
+<script type="text/javascript" src="https://alvic.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://alvic.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<meta name="generator" content="WPML ver:4.9.2 stt:1,4,2;" />
+<link rel="icon" href="https://alvic.com/wp-content/uploads/2022/02/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://alvic.com/wp-content/uploads/2022/02/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://alvic.com/wp-content/uploads/2022/02/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://alvic.com/wp-content/uploads/2022/02/cropped-favicon-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			#logo_ministerio{
+	width:200px!important;
+	height:57px!important;
+	position:relative!important;
+	top:-100%!important;
+	left:-120%!important;
+}		</style>
+		      </head>
+  <body class="error404 wp-theme-alvic">
+            <div id="page">
+      <div class="bg-line" data-parallax="50,0">
+  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+  viewBox="0 0 1914 2773.2" style="enable-background:new 0 0 1914 2773.2;" xml:space="preserve">
+  <path class="line" d="M0,2773.2L1914.3,0.4"/>
+  <path class="line-grow" d="M0,2773.2L1914.3,0.4"/>
+</svg>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+  viewBox="0 0 1914 2773.2" style="enable-background:new 0 0 1914 2773.2;" xml:space="preserve">
+  <path class="line" d="M0,2773.2L1914.3,0.4"/>
+  <path class="line-grow" d="M0,2773.2L1914.3,0.4"/>
+</svg>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+  viewBox="0 0 1914 2773.2" style="enable-background:new 0 0 1914 2773.2;" xml:space="preserve">
+  <path class="line" d="M0,2773.2L1914.3,0.4"/>
+  <path class="line-grow" d="M0,2773.2L1914.3,0.4"/>
+</svg>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+  viewBox="0 0 1914 2773.2" style="enable-background:new 0 0 1914 2773.2;" xml:space="preserve">
+  <path class="line" d="M0,2773.2L1914.3,0.4"/>
+  <path class="line-grow" d="M0,2773.2L1914.3,0.4"/>
+</svg>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+  viewBox="0 0 1914 2773.2" style="enable-background:new 0 0 1914 2773.2;" xml:space="preserve">
+  <path class="line" d="M0,2773.2L1914.3,0.4"/>
+  <path class="line-grow" d="M0,2773.2L1914.3,0.4"/>
+</svg>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+  viewBox="0 0 1914 2773.2" style="enable-background:new 0 0 1914 2773.2;" xml:space="preserve">
+  <path class="line" d="M0,2773.2L1914.3,0.4"/>
+  <path class="line-grow" d="M0,2773.2L1914.3,0.4"/>
+</svg>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+  viewBox="0 0 1914 2773.2" style="enable-background:new 0 0 1914 2773.2;" xml:space="preserve">
+  <path class="line" d="M0,2773.2L1914.3,0.4"/>
+  <path class="line-grow" d="M0,2773.2L1914.3,0.4"/>
+</svg>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+  viewBox="0 0 1914 2773.2" style="enable-background:new 0 0 1914 2773.2;" xml:space="preserve">
+  <path class="line" d="M0,2773.2L1914.3,0.4"/>
+  <path class="line-grow" d="M0,2773.2L1914.3,0.4"/>
+</svg>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+  viewBox="0 0 1914 2773.2" style="enable-background:new 0 0 1914 2773.2;" xml:space="preserve">
+  <path class="line" d="M0,2773.2L1914.3,0.4"/>
+  <path class="line-grow" d="M0,2773.2L1914.3,0.4"/>
+</svg>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+  viewBox="0 0 1914 2773.2" style="enable-background:new 0 0 1914 2773.2;" xml:space="preserve">
+  <path class="line" d="M0,2773.2L1914.3,0.4"/>
+  <path class="line-grow" d="M0,2773.2L1914.3,0.4"/>
+</svg>
+
+</div>
+      <header id="header" class="fade-down">
+  <div class="container">
+    <div class="menu-wrap"><a class="logo" href="https://alvic.com/es/"><img src="https://alvic.com/wp-content/themes/alvic/assets/img/alvic-logo-white.svg"></a>
+      <nav>
+          <ul class="main-menu">
+                  <li class="">
+          <a href="https://alvic.com/es/productos/"><span>Productos</span><i class="ri-arrow-down-s-line"></i></a>
+          <div class="megamenu">
+            <div class="container">
+              <div class="megamenu-body">
+
+                                                  <div class="row">
+                     
+                      <div class="col-12 col-xl-3 offset-xl-3 ">
+                        <div class="category-block">
+                          <div class="category-header">
+                                                        <a href="https://alvic.com/es/productos/paneles/"  >
+          <span>Paneles</span>
+              <i class="ri-arrow-right-s-line"></i>
+            </a>
+                                                    </div>
+                          <div class="category-body">
+                                                          <p class="introtext">Una amplia gama de paneles decorativos de alta calidad diseñados para adaptarse a todo tipo de mobiliario y proyectos de interior.</p>
+                                                      </div>
+                        </div>
+                      </div>
+                     
+                      <div class="col-12 col-xl-3  ">
+                        <div class="category-block">
+                          <div class="category-header">
+                                                      <span>Componentes</span>
+                                                    </div>
+                          <div class="category-body">
+                                                        <ul>
+                                                              <li>
+                                    <a href="https://alvic.com/es/productos/frentes/"  >
+          <span>Frentes</span>
+              <i class="ri-arrow-right-s-line"></i>
+            </a>
+                                </li>
+                                                              <li>
+                                    <a href="https://alvic.com/es/productos/modulos/"  >
+          <span>Módulos</span>
+              <i class="ri-arrow-right-s-line"></i>
+            </a>
+                                </li>
+                                                              <li>
+                                    <a href="https://alvic.com/es/productos/encimeras/"  >
+          <span>Encimeras</span>
+              <i class="ri-arrow-right-s-line"></i>
+            </a>
+                                </li>
+                                                          </ul>
+                                                    </div>
+                        </div>
+                      </div>
+                                      </div>
+                              </div>
+
+              <div class="megamenu-footer">
+                <div class="row">
+                  <div class="col-12 col-xl-3 offset-xl-9">
+                      <a
+    href="https://alvic.com/es/productos/"
+    class="text-button text-button--light text-button--grow-left"
+      >Ver todos los productos</a>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </li>
+
+                        <li class="">
+          <a href="https://alvic.com/es/tecnologias/"><span>Tecnologías</span><i class="ri-arrow-down-s-line"></i></a>
+          <div class="megamenu">
+            <div class="container">
+              <div class="megamenu-body">
+
+                                                  <div class="row">
+                     
+                      <div class="col-12 col-xl-3 offset-xl-3 ">
+                        <div class="category-block">
+                          <div class="category-header">
+                                                        <a href="https://alvic.com/es/tecnologias/luxe/"  >
+          <span>LUXE</span>
+              <i class="ri-arrow-right-s-line"></i>
+            </a>
+                                                    </div>
+                          <div class="category-body">
+                                                          <p class="introtext">Superficie lacada en acabado alto brillo con excelentes propiedades físico-mecánicas.</p>
+                                                      </div>
+                        </div>
+                      </div>
+                     
+                      <div class="col-12 col-xl-3  ">
+                        <div class="category-block">
+                          <div class="category-header">
+                                                        <a href="https://alvic.com/es/tecnologias/zenit/"  >
+          <span>ZENIT</span>
+              <i class="ri-arrow-right-s-line"></i>
+            </a>
+                                                    </div>
+                          <div class="category-body">
+                                                          <p class="introtext">Superficie lacada en acabado supermate de tacto aterciopelado y alta resistencia.</p>
+                                                      </div>
+                        </div>
+                      </div>
+                     
+                      <div class="col-12 col-xl-3  ">
+                        <div class="category-block">
+                          <div class="category-header">
+                                                        <a href="https://alvic.com/es/tecnologias/syncron/"  >
+          <span>SYNCRON</span>
+              <i class="ri-arrow-right-s-line"></i>
+            </a>
+                                                    </div>
+                          <div class="category-body">
+                                                          <p class="introtext">Superficie texturizada con alto nivel decorativo.</p>
+                                                      </div>
+                        </div>
+                      </div>
+                                      </div>
+                              </div>
+
+              <div class="megamenu-footer">
+                <div class="row">
+                  <div class="col-12 col-xl-3 offset-xl-9">
+                      <a
+    href="https://alvic.com/es/tecnologias/"
+    class="text-button text-button--light text-button--grow-left"
+      >Ver todas las tecnologías</a>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </li>
+
+                        <li class="">
+            <a href="https://alvic.com/es/disenos/"  >
+          <span>Diseños</span>
+            </a>
+        </li>
+                        <li class="">
+            <a href="https://alvic.com/es/aplicaciones/"  >
+          <span>Aplicaciones</span>
+            </a>
+        </li>
+                        <li class="">
+          <a href="https://alvic.com/es/empresa/"><span>Empresa</span><i class="ri-arrow-down-s-line"></i></a>
+          <div class="megamenu">
+            <div class="container">
+              <div class="megamenu-body">
+
+                                                  <div class="row">
+                     
+                      <div class="col-12 col-xl-3 offset-xl-3 ">
+                        <div class="category-block">
+                          <div class="category-header">
+                                                        <a href="https://alvic.com/es/empresa/presencia-mundial/"  >
+          <span>ALVIC en el mundo</span>
+              <i class="ri-arrow-right-s-line"></i>
+            </a>
+                                                    </div>
+                          <div class="category-body">
+                                                          <p class="introtext">ALVIC es una empresa que tiene presencia global en más de cien países de los cinco continentes y ocho plantas industriales para estar más cerca de ti.</p>
+                                                      </div>
+                        </div>
+                      </div>
+                     
+                      <div class="col-12 col-xl-3  ">
+                        <div class="category-block">
+                          <div class="category-header">
+                                                        <a href="https://alvic.com/es/empresa/sostenibilidad/"  >
+          <span>sostenibilidad</span>
+              <i class="ri-arrow-right-s-line"></i>
+            </a>
+                                                    </div>
+                          <div class="category-body">
+                                                          <p class="introtext">El respeto por el medio ambiente y la protección de los ecosistemas es uno de los pilares fundamentales de la filosofía de ALVIC y lo aplicamos en todos los aspectos de nuestro trabajo.</p>
+                                                      </div>
+                        </div>
+                      </div>
+                     
+                      <div class="col-12 col-xl-3  ">
+                        <div class="category-block">
+                          <div class="category-header">
+                                                        <a href="https://alvic.com/es/empresa/innovacion/"  >
+          <span>innovación y diseño</span>
+              <i class="ri-arrow-right-s-line"></i>
+            </a>
+                                                    </div>
+                          <div class="category-body">
+                                                          <p class="introtext">ALVIC nació para innovar y no hemos dejado de hacerlo ni por un segundo en más de cincuenta años. Es el reflejo de la pasión que sentimos por lo que hacemos y por llevar el sector a nuevos horizontes.</p>
+                                                      </div>
+                        </div>
+                      </div>
+                                      </div>
+                                  <div class="row">
+                     
+                      <div class="col-12 col-xl-3 offset-xl-3 ">
+                        <div class="category-block">
+                          <div class="category-header">
+                                                        <a href="https://alvic.com/es/empresa/exposiciones/"  >
+          <span>exposiciones</span>
+              <i class="ri-arrow-right-s-line"></i>
+            </a>
+                                                    </div>
+                          <div class="category-body">
+                                                          <p class="introtext">Conoce nuestro producto y la oferta de diseños y servicios que te ofrece ALVIC visitando uno de nuestros showrooms en Alcaudete, Madrid o Lakeland.</p>
+                                                      </div>
+                        </div>
+                      </div>
+                     
+                      <div class="col-12 col-xl-3  ">
+                        <div class="category-block">
+                          <div class="category-header">
+                                                        <a href="https://careers.alvic.com/"  >
+          <span>trabaja con nosotros</span>
+              <i class="ri-arrow-right-s-line"></i>
+            </a>
+                                                    </div>
+                          <div class="category-body">
+                                                          <p class="introtext">Ven a formar parte de #TalentoALVIC, una gran familia internacional formada por más de mil colaboradores. </p>
+                                                      </div>
+                        </div>
+                      </div>
+                     
+                      <div class="col-12 col-xl-3  ">
+                        <div class="category-block">
+                          <div class="category-header">
+                                                        <a href="https://alvic.com/es/empresa/historia/"  >
+          <span>Nuestra Historia</span>
+              <i class="ri-arrow-right-s-line"></i>
+            </a>
+                                                    </div>
+                          <div class="category-body">
+                                                          <p class="introtext">Descubre los hitos más importantes, año a año, de nuestras más de cinco décadas de historia como marca de referencia.</p>
+                                                      </div>
+                        </div>
+                      </div>
+                                      </div>
+                              </div>
+
+              <div class="megamenu-footer">
+                <div class="row">
+                  <div class="col-12 col-xl-3 offset-xl-9">
+                      <a
+    href="https://alvic.com/es/empresa/"
+    class="text-button text-button--light text-button--grow-left"
+      >Conoce la empresa</a>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </li>
+
+                        <li class="">
+            <a href="https://alvic.com/es/actualidad/"  >
+          <span>Actualidad</span>
+            </a>
+        </li>
+                        <li class="">
+            <a href="https://alvic.com/es/contacto/"  >
+          <span>Contacto</span>
+            </a>
+        </li>
+            </ul>
+        <ul class="lang-menu">
+          <li>
+            <i class="ri-translate-2"></i>
+            <span>es</span>
+            <i class="ri-arrow-down-s-line"></i>
+            <ul class="lang-layer">
+              <li><a href="https://alvic.com/es/">Español</a></li><li><a href="https://alvic.com/en/">English</a></li><li><a href="https://alvic.com/fr/">Français</a></li>            </ul>
+          </li>
+        </ul>
+        <div class="menu-toggle" data-label-close="Cerrar" data-label-open="Menu"><span>menu</span></div>
+      </nav>
+    </div>
+  </div>
+  <div class="menu-bg-layer"></div>
+</header>      <main id="main"><div class="module module--hero hero--front hero--front-compact hero--error-404">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 order-2 col-md-6 col-lg-5 order-1">
+        <div class="hero-text-wrap">
+          <div class="hero-text-header">
+            <ul class="breadcrumbs">
+              <li><a href="#">Página no encontrada</a></li>
+            </ul>
+            <h1 class="title">404</h1>
+            <p class="introtext">Parece que la página que estás buscando no existe, pero puedes seguir navegando por el resto de nuestra web con normalidad.</p>
+            <a class="text-button" href="https://alvic.com/es/">Volver a la home</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 order-1 col-lg-6 offset-lg-1 order-lg-2">
+        <div class="img-wrap" data-diagonal-clip="data-diagonal-clip">
+                      <img width="1200" height="500" src="https://alvic.com/wp-content/uploads/2022/06/alvic-welcomedesign-005-1-1200x500.jpg" class="attachment-w1200 size-w1200" alt="" draggable="false" decoding="async" fetchpriority="high" srcset="https://alvic.com/wp-content/uploads/2022/06/alvic-welcomedesign-005-1-1200x500.jpg 1200w, https://alvic.com/wp-content/uploads/2022/06/alvic-welcomedesign-005-1-300x125.jpg 300w, https://alvic.com/wp-content/uploads/2022/06/alvic-welcomedesign-005-1-1800x750.jpg 1800w, https://alvic.com/wp-content/uploads/2022/06/alvic-welcomedesign-005-1-900x375.jpg 900w, https://alvic.com/wp-content/uploads/2022/06/alvic-welcomedesign-005-1-600x250.jpg 600w, https://alvic.com/wp-content/uploads/2022/06/alvic-welcomedesign-005-1-450x188.jpg 450w" sizes="(max-width: 1200px) 100vw, 1200px" />                  </div>
+      </div>
+    </div>
+  </div>
+</div>
+      </main>
+      
+
+<footer id="footer">
+  <div class="social-share">
+    <div class="container">
+      <div class="social-wrap"><span>Síguenos en</span>
+        <ul>
+                      <li class="facebook">
+              <a href="https://www.facebook.com/ALVICGLOB" target="_blank" >facebook</a>
+            </li>
+                      <li class="instagram">
+              <a href="https://www.instagram.com/grupoalvic" target="_blank" >instagram</a>
+            </li>
+                      <li class="linkedin">
+              <a href="https://www.linkedin.com/company/alvic-global" target="_blank" >linkedin</a>
+            </li>
+                      <li class="pinterest">
+              <a href="https://www.pinterest.es/alvicglobal" target="_blank" >pinterest</a>
+            </li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+  <div class="bg-footer">
+    <img width="1200" height="928" src="https://alvic.com/wp-content/uploads/2021/12/ALVIC-Home-1200x928.jpg" class="attachment-w1200 size-w1200" alt="syncron" draggable="false" decoding="async" loading="lazy" srcset="https://alvic.com/wp-content/uploads/2021/12/ALVIC-Home-1200x928.jpg 1200w, https://alvic.com/wp-content/uploads/2021/12/ALVIC-Home-300x232.jpg 300w, https://alvic.com/wp-content/uploads/2021/12/ALVIC-Home-1800x1392.jpg 1800w, https://alvic.com/wp-content/uploads/2021/12/ALVIC-Home-900x696.jpg 900w, https://alvic.com/wp-content/uploads/2021/12/ALVIC-Home-600x464.jpg 600w, https://alvic.com/wp-content/uploads/2021/12/ALVIC-Home-450x348.jpg 450w, https://alvic.com/wp-content/uploads/2021/12/ALVIC-Home-1024x792.jpg 1024w, https://alvic.com/wp-content/uploads/2021/12/ALVIC-Home-768x594.jpg 768w, https://alvic.com/wp-content/uploads/2021/12/ALVIC-Home-1536x1188.jpg 1536w, https://alvic.com/wp-content/uploads/2021/12/ALVIC-Home-2048x1584.jpg 2048w" sizes="auto, (max-width: 1200px) 100vw, 1200px" />    <div class="container">
+      <div class="footer">
+        <div class="claim-wrap fade">
+          <span>Feel the innovation</span>
+        </div>
+        <div class="legal-wrap"><span>2026 GRUPO ALVIC FR MOBILIARIO, S.L.</span>
+          <ul class="legal-menu">
+                                        <li>
+                <a href="https://alvic.com/es/aviso-legal/" target="">
+                  Aviso legal                </a>
+              </li>
+                                        <li>
+                <a href="https://alvic.com/es/politica-cookies/" target="">
+                  Política de cookies                </a>
+              </li>
+                                        <li>
+                <a href="https://canaldenuncias.grupoalvic.com/portal" target="_blank">
+                  Canal Ético                </a>
+              </li>
+                                        <li>
+                <a href="https://intranet.grupoalvic.com/" target="_blank">
+                  Portal del empleado                </a>
+              </li>
+                                        <li>
+                <a href="https://www.grupoalvic.com/webexplorador/wp-login.php" target="_blank">
+                  Zona privada                </a>
+              </li>
+                                        <li>
+                <a href="https://alvic.com/es/programa-operativo-plurirregional-espana-2014-2020/" target="">
+                  PO PLURIRREGIONAL ESPAÑA 2014-2020                </a>
+              </li>
+            			  <li><img src="https://alvic.com/wp-content/uploads/2023/03/gobierno-de-espana.png" alt="ministerio de hacienda y función pública" id="logo_ministerio"></li>			  
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>    </div>
+    
+<script type="text/javascript">
+  window.theme = {"apiKey":"AIzaSyDhoxSmZAdztH4WND3Q7QHKEc5sGDdOmdM","mapID":"5f6eeaa6180815aa","lang":"es"};
+</script>
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script src="https://unpkg.com/@googlemaps/markerclustererplus/dist/index.min.js"></script>
+    <script src="https://alvic.com/wp-content/themes/alvic/assets/scripts/lib/fullpage.scrollHorizontally.min.js"></script>
+    <script src="https://alvic.com/wp-content/themes/alvic/assets/scripts/lib/fullpage.extensions.min.js"></script>
+    <script src="https://alvic.com/wp-content/themes/alvic/assets/scripts/site.js?_="></script>
+    <div class="hidden" id="dev-grid">
+  <div class="container container--wide">
+    <div class="container c12">
+      <div class="row">
+        <div class="col-1">
+          <div class="inner"></div>
+        </div>
+        <div class="col-1">
+          <div class="inner"></div>
+        </div>
+        <div class="col-1">
+          <div class="inner"></div>
+        </div>
+        <div class="col-1">
+          <div class="inner"></div>
+        </div>
+        <div class="col-1">
+          <div class="inner"></div>
+        </div>
+        <div class="col-1">
+          <div class="inner"></div>
+        </div>
+        <div class="col-1">
+          <div class="inner"></div>
+        </div>
+        <div class="col-1">
+          <div class="inner"></div>
+        </div>
+        <div class="col-1">
+          <div class="inner"></div>
+        </div>
+        <div class="col-1">
+          <div class="inner"></div>
+        </div>
+        <div class="col-1">
+          <div class="inner"></div>
+        </div>
+        <div class="col-1">
+          <div class="inner"></div>
+        </div>
+      </div>
+    </div>
+    <div class="container c6">
+      <div class="row">
+        <div class="col-2">
+          <div class="inner"></div>
+        </div>
+        <div class="col-2">
+          <div class="inner"></div>
+        </div>
+        <div class="col-2">
+          <div class="inner"></div>
+        </div>
+        <div class="col-2">
+          <div class="inner"></div>
+        </div>
+        <div class="col-2">
+          <div class="inner"></div>
+        </div>
+        <div class="col-2">
+          <div class="inner"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>    <div id="refs">
+  <div class="container--wide">
+    <div class="container">
+      <div class="row">
+        <div class="col-1">
+          <div class="inner"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>    <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/es\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/alvic\/*","\/es\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+		<script>
+		(function( w ){
+	"use strict";
+	// rel=preload support test
+	if( !w.loadCSS ){
+		w.loadCSS = function(){};
+	}
+	// define on the loadCSS obj
+	var rp = loadCSS.relpreload = {};
+	// rel=preload feature support test
+	// runs once and returns a function for compat purposes
+	rp.support = (function(){
+		var ret;
+		try {
+			ret = w.document.createElement( "link" ).relList.supports( "preload" );
+		} catch (e) {
+			ret = false;
+		}
+		return function(){
+			return ret;
+		};
+	})();
+
+	// if preload isn't supported, get an asynchronous load by using a non-matching media attribute
+	// then change that media back to its intended value on load
+	rp.bindMediaToggle = function( link ){
+		// remember existing media attr for ultimate state, or default to 'all'
+		var finalMedia = link.media || "all";
+
+		function enableStylesheet(){
+			// unbind listeners
+			if( link.addEventListener ){
+				link.removeEventListener( "load", enableStylesheet );
+			} else if( link.attachEvent ){
+				link.detachEvent( "onload", enableStylesheet );
+			}
+			link.setAttribute( "onload", null ); 
+			link.media = finalMedia;
+		}
+
+		// bind load handlers to enable media
+		if( link.addEventListener ){
+			link.addEventListener( "load", enableStylesheet );
+		} else if( link.attachEvent ){
+			link.attachEvent( "onload", enableStylesheet );
+		}
+
+		// Set rel and non-applicable media type to start an async request
+		// note: timeout allows this to happen async to let rendering continue in IE
+		setTimeout(function(){
+			link.rel = "stylesheet";
+			link.media = "only x";
+		});
+		// also enable media after 3 seconds,
+		// which will catch very old browsers (android 2.x, old firefox) that don't support onload on link
+		setTimeout( enableStylesheet, 3000 );
+	};
+
+	// loop through link elements in DOM
+	rp.poly = function(){
+		// double check this to prevent external calls from running
+		if( rp.support() ){
+			return;
+		}
+		var links = w.document.getElementsByTagName( "link" );
+		for( var i = 0; i < links.length; i++ ){
+			var link = links[ i ];
+			// qualify links to those with rel=preload and as=style attrs
+			if( link.rel === "preload" && link.getAttribute( "as" ) === "style" && !link.getAttribute( "data-loadcss" ) ){
+				// prevent rerunning on link
+				link.setAttribute( "data-loadcss", true );
+				// bind listeners to toggle media back
+				rp.bindMediaToggle( link );
+			}
+		}
+	};
+
+	// if unsupported, run the polyfill
+	if( !rp.support() ){
+		// run once at least
+		rp.poly();
+
+		// rerun poly on an interval until onload
+		var run = w.setInterval( rp.poly, 500 );
+		if( w.addEventListener ){
+			w.addEventListener( "load", function(){
+				rp.poly();
+				w.clearInterval( run );
+			} );
+		} else if( w.attachEvent ){
+			w.attachEvent( "onload", function(){
+				rp.poly();
+				w.clearInterval( run );
+			} );
+		}
+	}
+
+
+	// commonjs
+	if( typeof exports !== "undefined" ){
+		exports.loadCSS = loadCSS;
+	}
+	else {
+		w.loadCSS = loadCSS;
+	}
+}( typeof global !== "undefined" ? global : this ) );
+		</script>
+			<!--copyscapeskip-->
+	<aside id="moove_gdpr_cookie_info_bar" class="moove-gdpr-info-bar-hidden moove-gdpr-align-center moove-gdpr-dark-scheme gdpr_infobar_postion_bottom" aria-label="Banner de cookies RGPD" style="display: none;">
+	<div class="moove-gdpr-info-bar-container">
+		<div class="moove-gdpr-info-bar-content">
+		
+<div class="moove-gdpr-cookie-notice">
+  <p>Utilizamos cookies para ofrecerle una mejor experiencia en nuestro sitio web.</p>
+<p>Puede obtener más información sobre las cookies que utilizamos o desactivarlas desde <button  aria-haspopup="true" data-href="#moove_gdpr_cookie_modal" class="change-settings-button">ajustes</button>.</p>
+</div>
+<!--  .moove-gdpr-cookie-notice -->
+		
+<div class="moove-gdpr-button-holder">
+			<button class="mgbutton moove-gdpr-infobar-allow-all gdpr-fbo-0" aria-label="Aceptar" >Aceptar</button>
+		</div>
+<!--  .button-container -->
+		</div>
+		<!-- moove-gdpr-info-bar-content -->
+	</div>
+	<!-- moove-gdpr-info-bar-container -->
+	</aside>
+	<!-- #moove_gdpr_cookie_info_bar -->
+	<!--/copyscapeskip-->
+<script type="text/javascript" id="moove_gdpr_frontend-js-extra">
+/* <![CDATA[ */
+var moove_frontend_gdpr_scripts = {"ajaxurl":"https:\/\/alvic.com\/wp-admin\/admin-ajax.php","post_id":"25714","plugin_dir":"https:\/\/alvic.com\/wp-content\/plugins\/gdpr-cookie-compliance","show_icons":"all","is_page":"","ajax_cookie_removal":"false","strict_init":"2","enabled_default":{"strict":2,"third_party":0,"advanced":0,"performance":0,"preference":0},"geo_location":"false","force_reload":"false","is_single":"","hide_save_btn":"false","current_user":"0","cookie_expiration":"365","script_delay":"2000","close_btn_action":"1","close_btn_rdr":"","scripts_defined":"{\"cache\":true,\"header\":\"\",\"body\":\"\",\"footer\":\"\",\"thirdparty\":{\"header\":\"<!-- Google Tag Manager -->\\r\\n<script data-gdpr>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\\r\\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\\r\\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\\r\\n'https:\\\/\\\/www.googletagmanager.com\\\/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\\r\\n})(window,document,'script','dataLayer','GTM-PHTNKXW');<\\\/script>\\r\\n<!-- End Google Tag Manager -->\",\"body\":\"<!-- Google Tag Manager (noscript) -->\\r\\n<noscript><iframe src=\\\"https:\\\/\\\/www.googletagmanager.com\\\/ns.html?id=GTM-PHTNKXW\\\"\\r\\nheight=\\\"0\\\" width=\\\"0\\\" style=\\\"display:none;visibility:hidden\\\"><\\\/iframe><\\\/noscript>\\r\\n<!-- End Google Tag Manager (noscript) -->\",\"footer\":\"\"},\"strict\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"},\"advanced\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"}}","gdpr_scor":"true","wp_lang":"_es","wp_consent_api":"false","gdpr_nonce":"a8480f1013"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://alvic.com/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js?ver=5.0.11" id="moove_gdpr_frontend-js"></script>
+<script type="text/javascript" id="moove_gdpr_frontend-js-after">
+/* <![CDATA[ */
+var gdpr_consent__strict = "true"
+var gdpr_consent__thirdparty = "false"
+var gdpr_consent__advanced = "false"
+var gdpr_consent__performance = "false"
+var gdpr_consent__preference = "false"
+var gdpr_consent__cookies = "strict"
+/* ]]> */
+</script>
+
+    
+	<!--copyscapeskip-->
+	<!-- V1 -->
+	<dialog id="moove_gdpr_cookie_modal" class="gdpr_lightbox-hide" aria-modal="true" aria-label="Pantalla de ajustes RGPD">
+	<div class="moove-gdpr-modal-content moove-clearfix logo-position-left moove_gdpr_modal_theme_v1">
+		    
+		<button class="moove-gdpr-modal-close" autofocus aria-label="Cerrar los ajustes de cookies RGPD">
+			<span class="gdpr-sr-only">Cerrar los ajustes de cookies RGPD</span>
+			<span class="gdpr-icon moovegdpr-arrow-close"></span>
+		</button>
+				<div class="moove-gdpr-modal-left-content">
+		
+<div class="moove-gdpr-company-logo-holder">
+	<img src="https://alvic.com/wp-content/uploads/2022/06/Imagotipo.svg" alt=""   width="300"  height="63"  class="img-responsive" />
+</div>
+<!--  .moove-gdpr-company-logo-holder -->
+		<ul id="moove-gdpr-menu">
+			
+<li class="menu-item-on menu-item-privacy_overview menu-item-selected">
+	<button data-href="#privacy_overview" class="moove-gdpr-tab-nav" aria-label="Resumen de privacidad">
+	<span class="gdpr-nav-tab-title">Resumen de privacidad</span>
+	</button>
+</li>
+
+	<li class="menu-item-strict-necessary-cookies menu-item-off">
+	<button data-href="#strict-necessary-cookies" class="moove-gdpr-tab-nav" aria-label="Cookies estrictamente necesarias">
+		<span class="gdpr-nav-tab-title">Cookies estrictamente necesarias</span>
+	</button>
+	</li>
+
+
+	<li class="menu-item-off menu-item-third_party_cookies">
+	<button data-href="#third_party_cookies" class="moove-gdpr-tab-nav" aria-label="Cookies de terceros">
+		<span class="gdpr-nav-tab-title">Cookies de terceros</span>
+	</button>
+	</li>
+
+	<li class="menu-item-advanced-cookies menu-item-off">
+	<button data-href="#advanced-cookies" class="moove-gdpr-tab-nav" aria-label="Cookies adicionales">
+		<span class="gdpr-nav-tab-title">Cookies adicionales</span>
+	</button>
+	</li>
+
+
+	<li class="menu-item-moreinfo menu-item-off">
+	<button data-href="#cookie_policy_modal" class="moove-gdpr-tab-nav" aria-label="Política de cookies">
+		<span class="gdpr-nav-tab-title">Política de cookies</span>
+	</button>
+	</li>
+		</ul>
+		
+<div class="moove-gdpr-branding-cnt">
+	</div>
+<!--  .moove-gdpr-branding -->
+		</div>
+		<!--  .moove-gdpr-modal-left-content -->
+		<div class="moove-gdpr-modal-right-content">
+		<div class="moove-gdpr-modal-title">
+			 
+		</div>
+		<!-- .moove-gdpr-modal-ritle -->
+		<div class="main-modal-content">
+
+			<div class="moove-gdpr-tab-content">
+			
+<div id="privacy_overview" class="moove-gdpr-tab-main">
+		<span class="tab-title">Resumen de privacidad</span>
+		<div class="moove-gdpr-tab-main-content">
+	<p>Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.</p>
+		</div>
+	<!--  .moove-gdpr-tab-main-content -->
+
+</div>
+<!-- #privacy_overview -->
+			
+  <div id="strict-necessary-cookies" class="moove-gdpr-tab-main" style="display:none">
+    <span class="tab-title">Cookies estrictamente necesarias</span>
+    <div class="moove-gdpr-tab-main-content">
+      <p>Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.</p>
+      <div class="moove-gdpr-status-bar gdpr-checkbox-disabled checkbox-selected">
+        <div class="gdpr-cc-form-wrap">
+          <div class="gdpr-cc-form-fieldset">
+            <label class="cookie-switch" for="moove_gdpr_strict_cookies">    
+              <span class="gdpr-sr-only">Activar o desactivar las cookies</span>        
+              <input type="checkbox" aria-label="Cookies estrictamente necesarias" disabled checked="checked"  value="check" name="moove_gdpr_strict_cookies" id="moove_gdpr_strict_cookies">
+              <span class="cookie-slider cookie-round gdpr-sr" data-text-enable="Enabled" data-text-disabled="Disabled">
+                <span class="gdpr-sr-label">
+                  <span class="gdpr-sr-enable">Enabled</span>
+                  <span class="gdpr-sr-disable">Disabled</span>
+                </span>
+              </span>
+            </label>
+          </div>
+          <!-- .gdpr-cc-form-fieldset -->
+        </div>
+        <!-- .gdpr-cc-form-wrap -->
+      </div>
+      <!-- .moove-gdpr-status-bar -->
+                                              
+    </div>
+    <!--  .moove-gdpr-tab-main-content -->
+  </div>
+  <!-- #strict-necesarry-cookies -->
+			
+  <div id="third_party_cookies" class="moove-gdpr-tab-main" style="display:none">
+    <span class="tab-title">Cookies de terceros</span>
+    <div class="moove-gdpr-tab-main-content">
+      <p>Este sitio web utiliza Google Analytics para recopilar información anónima como el número de visitantes del sitio y las páginas más populares.</p>
+<p>Mantener esta cookie activada nos ayuda a mejorar nuestro sitio web.</p>
+      <div class="moove-gdpr-status-bar">
+        <div class="gdpr-cc-form-wrap">
+          <div class="gdpr-cc-form-fieldset">
+            <label class="cookie-switch" for="moove_gdpr_performance_cookies">    
+              <span class="gdpr-sr-only">Activar o desactivar las cookies</span>     
+              <input type="checkbox" aria-label="Cookies de terceros" value="check" name="moove_gdpr_performance_cookies" id="moove_gdpr_performance_cookies" >
+              <span class="cookie-slider cookie-round gdpr-sr" data-text-enable="Enabled" data-text-disabled="Disabled">
+                <span class="gdpr-sr-label">
+                  <span class="gdpr-sr-enable">Enabled</span>
+                  <span class="gdpr-sr-disable">Disabled</span>
+                </span>
+              </span>
+            </label>
+          </div>
+          <!-- .gdpr-cc-form-fieldset -->
+        </div>
+        <!-- .gdpr-cc-form-wrap -->
+      </div>
+      <!-- .moove-gdpr-status-bar -->
+             
+    </div>
+    <!--  .moove-gdpr-tab-main-content -->
+  </div>
+  <!-- #third_party_cookies -->
+			
+  <div id="advanced-cookies" class="moove-gdpr-tab-main" style="display:none">
+    <span class="tab-title">Cookies adicionales</span>
+    <div class="moove-gdpr-tab-main-content">
+      <p>Esta web utiliza las siguientes cookies adicionales:</p>
+<ul>
+<li>Youtube</li>
+</ul>
+      <div class="moove-gdpr-status-bar">
+        <div class="gdpr-cc-form-wrap">
+          <div class="gdpr-cc-form-fieldset">
+            <label class="cookie-switch" for="moove_gdpr_advanced_cookies">    
+              <span class="gdpr-sr-only">Activar o desactivar las cookies</span>
+              <input type="checkbox" aria-label="Cookies adicionales" value="check" name="moove_gdpr_advanced_cookies" id="moove_gdpr_advanced_cookies" >
+              <span class="cookie-slider cookie-round gdpr-sr" data-text-enable="Enabled" data-text-disabled="Disabled">
+                <span class="gdpr-sr-label">
+                  <span class="gdpr-sr-enable">Enabled</span>
+                  <span class="gdpr-sr-disable">Disabled</span>
+                </span>
+              </span>
+            </label>
+          </div>
+          <!-- .gdpr-cc-form-fieldset -->
+        </div>
+        <!-- .gdpr-cc-form-wrap -->
+      </div>
+      <!-- .moove-gdpr-status-bar -->
+         
+    </div>
+    <!--  .moove-gdpr-tab-main-content -->
+  </div>
+  <!-- #advanced-cookies -->
+									
+	<div id="cookie_policy_modal" class="moove-gdpr-tab-main" style="display:none">
+	<span class="tab-title">Política de cookies</span>
+	<div class="moove-gdpr-tab-main-content">
+		<p>Más información sobre nuestra <a href="https://alvic.com/es/politica-cookies/" target="_blank" rel="noopener">política de cookies</a></p>
+		 
+	</div>
+	<!--  .moove-gdpr-tab-main-content -->
+	</div>
+			</div>
+			<!--  .moove-gdpr-tab-content -->
+		</div>
+		<!--  .main-modal-content -->
+		<div class="moove-gdpr-modal-footer-content">
+			<div class="moove-gdpr-button-holder">
+						<button class="mgbutton moove-gdpr-modal-allow-all button-visible" aria-label="Activar todas">Activar todas</button>
+								<button class="mgbutton moove-gdpr-modal-save-settings button-visible" aria-label="Guardar cambios">Guardar cambios</button>
+				</div>
+<!--  .moove-gdpr-button-holder -->
+		</div>
+		<!--  .moove-gdpr-modal-footer-content -->
+		</div>
+		<!--  .moove-gdpr-modal-right-content -->
+
+		<div class="moove-clearfix"></div>
+
+	</div>
+	<!--  .moove-gdpr-modal-content -->
+	</dialog>
+	<!-- #moove_gdpr_cookie_modal -->
+	<!--/copyscapeskip-->
+  </body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Caché de objetos 238/253 objetos usando Disk
+Almacenamiento en caché de páginas con Disk: Enhanced (Page is 404) 
+
+Served from: alvic.com @ 2026-04-09 08:29:09 by W3 Total Cache
+-->

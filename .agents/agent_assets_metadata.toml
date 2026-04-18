@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "j2yBug-mHMeRlLK1P2y_y"
+uri = "file://mebli-website.zip"
+type = "unspecified"
+title = "Сайт меблів — повний архів"

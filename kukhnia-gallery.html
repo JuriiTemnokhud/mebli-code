@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Галерея — Кухні</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 1rem;
+            background: #111;
+            color: #fff
+        }
+
+        header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 1.25rem
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 12px;
+            margin-top: 1rem
+        }
+
+        .thumb {
+            background: #222;
+            border-radius: 8px;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 140px
+        }
+
+        .thumb img,
+        .thumb video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block
+        }
+
+        a.button {
+            color: #111;
+            background: #fff;
+            padding: 0.4rem 0.7rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600
+        }
+
+        /* Lightbox */
+        .lightbox {
+            position: fixed;
+            inset: 0;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            background: rgba(0, 0, 0, 0.85);
+            z-index: 9999
+        }
+
+        .lightbox.open {
+            display: flex
+        }
+
+        .lightbox-content {
+            max-width: 95vw;
+            max-height: 95vh
+        }
+
+        .lightbox img,
+        .lightbox video {
+            max-width: 100%;
+            max-height: 100%;
+            display: block
+        }
+
+        .close-light {
+            position: fixed;
+            top: 12px;
+            right: 12px;
+            background: #fff;
+            color: #111;
+            border-radius: 999px;
+            width: 36px;
+            height: 36px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-weight: 700
+        }
+
+        footer {
+            margin-top: 1.5rem;
+            color: #ccc
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Галерея — Кухні</h1>
+        <div>
+            <a class="button" href="index.html" target="_self">Назад</a>
+            <a class="button" href="#" id="openAll" style="margin-left:8px">Відкрити всі у нових вкладках</a>
+        </div>
+    </header>
+
+    <div class="grid" id="galleryGrid">
+        <!-- Thumbnails inserted statically -->
+
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG-2410d14d25cd728a85781cd9f13ee97e-V.webp"
+                data-full="images/My%20Work/Кухні/IMG-2410d14d25cd728a85781cd9f13ee97e-V.jpg" alt="IMG-2410"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG-6b1cdc951a51009a9cc3e865adc3dde8-V.webp"
+                data-full="images/My%20Work/Кухні/IMG-6b1cdc951a51009a9cc3e865adc3dde8-V.jpg" alt="IMG-6b1c"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20230823_161225.webp"
+                data-full="images/My%20Work/Кухні/IMG_20230823_161225.jpg" alt="IMG_20230823"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20231209_162408.webp"
+                data-full="images/My%20Work/Кухні/IMG_20231209_162408.jpg" alt="IMG_20231209"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20231215_163648.webp"
+                data-full="images/My%20Work/Кухні/IMG_20231215_163648.jpg" alt="IMG_20231215_163648"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20231215_163622.webp"
+                data-full="images/My%20Work/Кухні/IMG_20231215_163622.jpg" alt="IMG_20231215_163622"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20231215_163615.webp"
+                data-full="images/My%20Work/Кухні/IMG_20231215_163615.jpg" alt="IMG_20231215_163615"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20231209_162422.webp"
+                data-full="images/My%20Work/Кухні/IMG_20231209_162422.jpg" alt="IMG_20231209_162422"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20221112_112607.webp"
+                data-full="images/My%20Work/Кухні/.jpg" alt="IMG_20221112_112607"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20221112_112602.webp"
+                data-full="images/My%20Work/Кухні/IMG_20221112_112602.jpg" alt="IMG_20221112_112602"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20221112_112509.webp"
+                data-full="images/My%20Work/Кухні/IMG_20221112_112509.jpg" alt="IMG_20221112_112509"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20220212_170342.webp"
+                data-full="images/My%20Work/Кухні/IMG_20220212_170342.jpg" alt="IMG_20220212_170342"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20220212_170319.webp"
+                data-full="images/My%20Work/Кухні/IMG_20220212_170319.jpg" alt="IMG_20220212_170319"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20220212_170305.webp"
+                data-full="images/My%20Work/Кухні/IMG_20220212_170305.jpg" alt="IMG_20220212_170305"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20220212_170217.webp"
+                data-full="images/My%20Work/Кухні/IMG_20220212_170217.jpg" alt="IMG_20220212_170217"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20220212_170201.webp"
+                data-full="images/My%20Work/Кухні/IMG_20220212_170201.jpg" alt="IMG_20220212_170201"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20220118_092545.webp"
+                data-full="images/My%20Work/Кухні/IMG_20220118_092545.jpg" alt="IMG_20220118"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20211207_194105.webp"
+                data-full="images/My%20Work/Кухні/IMG_20211207_194105.jpg" alt="IMG_20211207_194105"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20211207_194103.webp"
+                data-full="images/My%20Work/Кухні/IMG_20211207_194103.jpg" alt="IMG_20211207_194103"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/IMG_20211207_194004.webp"
+                data-full="images/My%20Work/Кухні/IMG_20211207_194004.jpg" alt="IMG_20211207_194004"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/IMG_20201101_120000.jpg" alt="IMG_20201101"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/IMG_20201001_101010.jpg" alt="IMG_20201001"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/thumbs/photo_2024-12-22_16-24-26.webp"
+                data-full="images/My%20Work/Кухні/photo_2024-12-22_16-24-26.jpg" alt="photo_2024"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/photo_2024-12-22_16-24-29.jpg" alt="photo_2024_29"></div>
+        <div class="thumb"><img src="images/My%20Work/Кухні/photo_2024-12-22_16-24-13.jpg" alt="photo_2024_13"></div>
+
+        <!-- videos -->
+        <div class="thumb"><video src="images/My%20Work/Кухні/video_2025-11-30_20-47-20%20(3).mp4" muted></video></div>
+        <div class="thumb"><video src="images/My%20Work/Кухні/video_2025-11-30_19-45-29.mp4" muted></video></div>
+        <div class="thumb"><video src="images/My%20Work/Кухні/video_2025-11-30_20-47-40.mp4" muted></video></div>
+        <div class="thumb"><video src="images/My%20Work/Кухні/video_2025-11-30_20-47-40%20(2).mp4" muted></video></div>
+    </div>
+
+    <div class="lightbox" id="lightbox">
+        <div class="close-light" id="closeLight">✕</div>
+        <div class="lightbox-content" id="lightboxContent"></div>
+    </div>
+
+    <footer>
+        <p>Файли з папки: <code>images/My%20Work/Кухні/</code></p>
+    </footer>
+
+    <script>
+        // Лайтовий lightbox для перегляду
+        const grid = document.getElementById('galleryGrid');
+        const lightbox = document.getElementById('lightbox');
+        const lightboxContent = document.getElementById('lightboxContent');
+        const closeLight = document.getElementById('closeLight');
+
+        grid.addEventListener('click', (e) => {
+            const thumb = e.target.closest('.thumb');
+            if (!thumb) return;
+            const media = thumb.querySelector('img, video');
+            if (!media) return;
+            openLightboxWith(media);
+        });
+
+        function openLightboxWith(media) {
+            lightboxContent.innerHTML = '';
+            const fullSrc = (media.dataset && media.dataset.full) ? media.dataset.full : media.src;
+            if (media.tagName.toLowerCase() === 'img') {
+                const img = document.createElement('img');
+                img.src = fullSrc;
+                lightboxContent.appendChild(img);
+            } else if (media.tagName.toLowerCase() === 'video') {
+                const v = document.createElement('video');
+                v.src = fullSrc;
+                v.controls = true;
+                v.autoplay = true;
+                lightboxContent.appendChild(v);
+            }
+            lightbox.classList.add('open');
+        }
+
+        closeLight.addEventListener('click', () => { lightbox.classList.remove('open'); lightboxContent.innerHTML = ''; });
+        lightbox.addEventListener('click', (e) => { if (e.target === lightbox) { lightbox.classList.remove('open'); lightboxContent.innerHTML = ''; } });
+        document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { lightbox.classList.remove('open'); lightboxContent.innerHTML = ''; } });
+
+        // Open all files in new tabs (useful for quick review)
+        document.getElementById('openAll').addEventListener('click', (e) => {
+            e.preventDefault();
+            const sources = Array.from(grid.querySelectorAll('img, video')).map(m => (m.dataset && m.dataset.full) ? m.dataset.full : m.src);
+            sources.forEach(src => window.open(src, '_blank'));
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Послуги — Мій Веб-сайт</title>
+    <link rel="stylesheet" href="css/style.css?v=2.7">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="index.html">Головна</a></li>
+                <li><a href="about.html" target="_blank">Про нас</a></li>
+                <li><a href="calculator.html" target="_blank">Калькулятор</a></li>
+                <li><a href="services.html" aria-current="page">Послуги</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="container content" style="margin-top:2rem;">
+        <h1>Наші послуги</h1>
+        <p>Ми надаємо повний спектр послуг для вашого інтер'єру. Основні позиції:</p>
+        <ul>
+            <li>Безкоштовний замір</li>
+            <li>Консультація та прорахунок</li>
+            <li>Проектування інтер'єру та креслення</li>
+            <li>Замовлення матеріалів та порізка</li>
+            <li>Контроль якості на всіх етапах підготовки</li>
+            <li>Доставка та монтаж</li>
+            <li>Здача проєкту у обумовлені строки</li>
+        </ul>
+
+        <p>Додатково можемо запропонувати: післягарантійне обслуговування, підбір побутової техніки, виїзд майстра для монтажу, персоналізовані підходи до матеріалів та ергономіки.</p>
+
+        <h2>Замовити послугу</h2>
+        <form id="serviceOrderForm" action="https://formsubmit.co/temnyj83@gmail.com" method="POST">
+            <input type="hidden" name="_subject" value="Нова заявка на послугу з сайту меблів">
+            <input type="hidden" name="_captcha" value="false">
+            <input type="hidden" name="_next" id="formNext" value="">
+            <div style="display:flex;gap:10px;flex-wrap:wrap;">
+                <input type="text" name="name" id="orderName" placeholder="Ваше ім'я" required
+                    style="flex:1;min-width:200px;padding:8px;border:1px solid #ccc;border-radius:6px;">
+                <input type="tel" name="phone" id="orderPhone" placeholder="Телефон" required
+                    style="flex:1;min-width:200px;padding:8px;border:1px solid #ccc;border-radius:6px;">
+            </div>
+            <div style="margin-top:8px;display:flex;gap:10px;flex-wrap:wrap;">
+                <input type="email" name="email" id="orderEmail" placeholder="Email (необов'язково)"
+                    style="flex:1;min-width:200px;padding:8px;border:1px solid #ccc;border-radius:6px;">
+                <select name="service" id="orderService" required
+                    style="flex:1;min-width:200px;padding:8px;border:1px solid #ccc;border-radius:6px;">
+                    <option value="">Оберіть послугу...</option>
+                    <option value="zamir">Безкоштовний замір</option>
+                    <option value="konsultacia">Консультація і прорахунок</option>
+                    <option value="proektuvannia">Проектування</option>
+                    <option value="materialy">Замовлення матеріалів і порізка</option>
+                    <option value="montazh">Доставка та монтаж</option>
+                    <option value="povnij_paket">Повний пакет (всі етапи)</option>
+                </select>
+            </div>
+            <div style="margin-top:8px;">
+                <textarea name="message" id="orderMessage" placeholder="Короткий опис або побажання" rows="4"
+                    style="width:100%;padding:8px;border:1px solid #ccc;border-radius:6px;"></textarea>
+            </div>
+            <div style="margin-top:10px;display:flex;gap:10px;align-items:center;">
+                <button type="submit" style="background:#667eea;color:#fff;border:none;padding:10px 14px;border-radius:8px;cursor:pointer;">Замовити</button>
+            </div>
+        </form>
+        <script>
+            document.getElementById('formNext').value = window.location.origin + window.location.pathname + '?sent=1';
+
+            const urlParams = new URLSearchParams(window.location.search);
+            if (urlParams.get('sent') === '1') {
+                const msg = document.createElement('p');
+                msg.style.cssText = 'color:green;font-weight:600;margin-top:12px;';
+                msg.textContent = 'Дякуємо! Ваш запит надіслано. Ми зв\'яжемося з вами найближчим часом.';
+                document.getElementById('serviceOrderForm').after(msg);
+            }
+        </script>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Мій Веб-сайт.</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>

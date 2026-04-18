@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Конструктор (Тест) - MebelArt</title>
+    <link rel="stylesheet" href="css/style.css?v=3.7">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script type="module"
+        src="https://unpkg.com/sweethome3d-webcomponent@latest/dist/sweethome3d-webcomponent.js"></script>
+    <style>
+        .constructor-section {
+            padding: 1rem 0;
+            margin-bottom: 0;
+            min-height: 80vh;
+            background: #f8f9fa;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            border: 2px dashed #ccc;
+        }
+
+        .test-controls {
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body class="calc-body constructor-body">
+    <header>
+        <nav>
+            <button class="mobile-menu-toggle" aria-label="Відкрити меню" onclick="toggleMobileMenu(event)">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+            <ul class="nav-links">
+                <li><a href="index.html">Головна</a></li>
+                <li><a href="about.html" target="_blank" id="aboutMeLink">Про нас</a></li>
+                <li><a href="calculator.html" target="_blank">Калькулятор</a></li>
+                <!-- <li><a href="constructor.html" target="_blank">Конструктор (v1)</a></li> -->
+                <li><a href="constructor-v2.html" target="_blank">Конструктор</a></li>
+                <li><a href="constructor-test.html" class="active">Тест (SH3D)</a></li>
+                <li><a href="services.html" target="_blank" rel="noopener">Послуги</a></li>
+                <li>
+                    <a href="#" id="contactsBtn">Контакти</a>
+                    <div class="dropdown-menu">
+                        <div class="contact-info">
+                            <p>📞 <a href="tel:+380939261637">+38 093 926 16 37</a></p>
+                            <p>✉️ <a href="mailto:temnyj83@gmail.com">temnyj83@gmail.com</a>
+                            </p>
+                            <div class="service-area-dropdown">
+                                <span>📍</span> Київ та Київська область
+                            </div>
+                        </div>
+                        <div class="social-links">
+                            <a href="#" class="social-icon viber" aria-label="Viber" title="Viber"><i
+                                    class="fa-brands fa-viber"></i></a>
+                            <a href="#" class="social-icon telegram" aria-label="Telegram" title="Telegram"><i
+                                    class="fa-brands fa-telegram"></i></a>
+                            <a href="#" class="social-icon whatsapp" aria-label="WhatsApp" title="WhatsApp"><i
+                                    class="fa-brands fa-whatsapp"></i></a>
+                            <a href="#" class="social-icon instagram" aria-label="Instagram" title="Instagram"><i
+                                    class="fa-brands fa-instagram"></i></a>
+                            <a href="#" class="social-icon facebook" aria-label="Facebook" title="Facebook"><i
+                                    class="fa-brands fa-facebook"></i></a>
+                            <a href="#" class="social-icon tiktok" aria-label="TikTok" title="TikTok"><i
+                                    class="fa-brands fa-tiktok"></i></a>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="constructor-container">
+        <header class="constructor-header">
+            <h1>3D Конструктор (Експериментальний)</h1>
+            <p>Тестування відкритого коду: Sweet Home 3D</p>
+        </header>
+
+        <div class="constructor-section">
+            <div class="test-controls">
+                <h3>Статус компонента</h3>
+                <p>Спроба завантажити бібліотеку...</p>
+            </div>
+
+            <!-- Experimental Component Placement -->
+            <sweethome3d-viewer id="sh3d-viewer" style="width: 100%; height: 600px; display: block; background: #fff;"
+                lib-path="https://unpkg.com/sweethome3d-webcomponent@latest/lib"
+                url="https://www.sweethome3d.com/examples/userGuideExample.sh3d">
+            </sweethome3d-viewer>
+
+        </div>
+
+        <div
+            style="text-align: center; margin-top: 1rem; color: rgba(255,255,255,0.6); font-size: 0.9rem; padding-bottom: 2rem;">
+            <p>Це тестова сторінка для перевірки можливостей Sweet Home 3D.</p>
+        </div>
+    </div>
+    <script>
+        // Hide/Show Header on Scroll
+        let lastScrollTop = 0;
+        const calcHeader = document.querySelector('header');
+        window.addEventListener('scroll', () => {
+            let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+            if (scrollTop > lastScrollTop && scrollTop > 50) {
+                // Scroll Down
+                if (calcHeader) calcHeader.classList.add('nav-up');
+            } else {
+                // Scroll Up
+                if (calcHeader) calcHeader.classList.remove('nav-up');
+            }
+            lastScrollTop = scrollTop <= 0 ? 0 : scrollTop;
+        }, { passive: true });
+    </script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>

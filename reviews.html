@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Відгуки - Мій Веб-сайт</title>
+    <link rel="stylesheet" href="css/style.css?v=2.0">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Головна</a></li>
+                <li><a href="index.html#contactFormSection">Контакти</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div class="container" style="margin-top: 2rem; margin-bottom: 1rem;">
+            <a href="index.html" class="cta-button secondary" style="text-decoration: none;">&larr; На головну</a>
+        </div>
+
+        <section class="reviews-section">
+            <div class="container">
+                <div class="reviews-header" style="text-align: center; margin-bottom: 2.5rem;">
+                    <h2>Відгуки наших клієнтів</h2>
+                    <button id="addReviewBtn" class="cta-button secondary">Написати відгук</button>
+                </div>
+                <div class="reviews-grid" id="reviewsGrid">
+                    <!-- Static reviews will be loaded by JS if not present, or we can keep them here for SEO/Structure -->
+                    <!-- Review 1 -->
+                    <div class="review-card">
+                        <div class="stars" style="color: #FFD700;">★★★★★</div>
+                        <p class="review-text">"Дуже задоволені кухнею! Все зроблено вчасно і якісно. Окрема подяка за
+                            професійний підхід до дизайну."</p>
+                        <div class="reviewer-info">
+                            <span class="reviewer-name">Олена К.</span>
+                            <span class="reviewer-type">Кухня на замовлення</span>
+                        </div>
+                    </div>
+                    <!-- Review 2 -->
+                    <div class="review-card">
+                        <div class="stars" style="color: #FFD700;">★★★★★</div>
+                        <p class="review-text">"Замовляли шафу-купе в коридор. Монтаж пройшов швидко, майстри прибрали
+                            за собою. Рекомендую!"</p>
+                        <div class="reviewer-info">
+                            <span class="reviewer-name">Андрій М.</span>
+                            <span class="reviewer-type">Шафа-купе</span>
+                        </div>
+                    </div>
+                    <!-- Review 3 -->
+                    <div class="review-card">
+                        <div class="stars" style="color: #FFD700;">★★★★★</div>
+                        <p class="review-text">"Меблювали весь офіс. Меблі міцні, сучасні. Співробітництвом повністю
+                            задоволені."</p>
+                        <div class="reviewer-info">
+                            <span class="reviewer-name">ТОВ "Вектор"</span>
+                            <span class="reviewer-type">Офісні меблі</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Review Modal -->
+        <div id="reviewModal" class="modal">
+            <div class="modal-overlay"></div>
+            <div class="modal-content">
+                <button class="modal-close">&times;</button>
+                <h2>Написати відгук</h2>
+                <form id="reviewForm" class="contact-form">
+                    <div class="form-group">
+                        <input type="text" name="reviewName" placeholder="Ваше ім'я" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" name="reviewService" placeholder="Що замовляли? (напр. Кухня)" required>
+                    </div>
+                    <div class="form-group">
+                        <p style="margin-bottom: 0.5rem; color: #666;">Ваша оцінка:</p>
+                        <div class="star-rating">
+                            <span data-value="1">★</span>
+                            <span data-value="2">★</span>
+                            <span data-value="3">★</span>
+                            <span data-value="4">★</span>
+                            <span data-value="5">★</span>
+                        </div>
+                        <input type="hidden" name="reviewRating" id="reviewRatingInput" value="5">
+                    </div>
+                    <div class="form-group">
+                        <textarea name="reviewText" placeholder="Текст відгуку" required></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="reviewPhoto"
+                            style="display: block; margin-bottom: 5px; color: #666; font-size: 0.9rem;">Додати фото
+                            (необов'язково):</label>
+                        <input type="file" id="reviewPhoto" name="reviewPhoto" accept="image/*"
+                            style="padding: 0.5rem 0;">
+                    </div>
+                    <button type="submit" class="cta-button">Опублікувати</button>
+                </form>
+            </div>
+        </div>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Мій Веб-сайт. Всі права захищені.</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
